@@ -1,0 +1,3 @@
+<img src="images/CalFlag.png" style="float:left">
+<br></br>
+<h1><center>Welcome to my wonderful Shiny App</h1></center>
